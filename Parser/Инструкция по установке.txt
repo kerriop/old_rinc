@@ -1,0 +1,18 @@
+1. Скачать и установить python 3.6.1 
+https://www.python.org/ftp/python/3.6.1/python-3.6.1.exe
+
+2. Открыть консоль (cmd.exe) и последовательно писать:
+> pip install requests
+> pip install BeautifulSoup4
+> pip install xlwt
+> pip install bs4
+
+3. Открыть (или вынести ярлык и открыть) elib.jar с помощью java
+3.1. Или же открывать сразу elib.py с помощью python
+
+
+Дополнительно:
+input.txt - список ФИО людей построчно на расчёт
+org.txt - id организации для поиска (у СПбГУТ id=1193)
+hirsch.txt - желаемый хирш
+при открытии через java в интерфейсе есть кнопки их редактирования
